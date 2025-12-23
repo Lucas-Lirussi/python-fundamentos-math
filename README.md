@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios práticos desenvolvidos em Python com foco em **lógica de programação**, **clareza de código** e **fundamentos matemáticos**, utilizando a biblioteca nativa `math`.
 
-## 🔹 Projeto IV – Raiz quadrada de números
+## 🔹 Projeto - Raiz quadrada de números
 
 Programa que calcula a raiz quadrada de uma lista de números e identifica quais possuem raízes inteiras.
 
@@ -13,7 +13,7 @@ Programa que calcula a raiz quadrada de uma lista de números e identifica quais
 - Condicionais (`if/else`)  
 - Arredondamento e formatação de saída  
 
-## 🔹 Projeto V – Área de um jardim circular
+## 🔹 Projeto - Área de um jardim circular
 
 Programa que calcula a área de um jardim circular e o valor total a ser pago pela grama, a partir dos dados informados pelo usuário.
 
